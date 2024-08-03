@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kutlu</h1>
 <h3 align="center">A frontend developer from Istanbul, Turkey</h3>
 
-- 🌱 I’m currently learning **React & TypeScript**
+- 🌱 I’m currently learning **Next.js & React Native**
 
 - 📫 How to reach **karakockutlu@gmail.com**
 
